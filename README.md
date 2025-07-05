@@ -14,10 +14,10 @@ Each log entry here links to a detailed blog post published on [Hashnode](https:
 
 | Day | Topic | Blog Link |
 |-----|-------|-----------|
-| 1️⃣ | Curiosity, Confusion, and Cloud | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/curiosity-confusion-and-cloud) |
-| 2️⃣ | Day #1 – Before the Tools: Understanding DevOps Culture | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-1-before-the-tools-understanding-devops-culture) |
-| 3️⃣ | Day #2 - Learning Linux—Not the Hard Way | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-2-learning-linuxnot-the-hard-way) |
-| 4️⃣ | Coming soon... |
+| 0️⃣ | Curiosity, Confusion, and Cloud | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/curiosity-confusion-and-cloud) |
+| 1️⃣ | Day #1 – Before the Tools: Understanding DevOps Culture | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-1-before-the-tools-understanding-devops-culture) |
+| 2️⃣ | Day #2 - Learning Linux—Not the Hard Way | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-2-learning-linuxnot-the-hard-way) |
+| 3️⃣ | Coming soon... |
 
 ---
 
