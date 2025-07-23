@@ -19,7 +19,8 @@ Each log entry here links to a detailed blog post published on [Hashnode](https:
 | 2️⃣ | Day #2 - Learning Linux—Not the Hard Way | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-2-learning-linuxnot-the-hard-way) |
 | 3️⃣ | Day #3 - Shell Scripting: Making Linux Work for You | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-3-shell-scripting-making-linux-work-for-you) |
 | 4️⃣ | Day #4 - Shell Scripting Project: Listing AWS Resources with Shell Scripts | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-4-shell-scripting-project-listing-aws-resources-with-shell-scripts) |
-| 5️⃣ | Coming soon... |
+| 5️⃣ | Day #5 - Git Basics: Learning to Save, Track, and Undo with Confidence | [Read on Hashnode](https://learning-out-loud-my-devops-journey.hashnode.dev/day-5-git-basics-learning-to-save-track-and-undo-with-confidence) |
+| 6️⃣ | Coming soon... |
 
 ---
 
